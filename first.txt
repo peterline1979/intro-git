@@ -1,1 +1,2 @@
 Git 練習
+git push
